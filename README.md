@@ -12,6 +12,12 @@ disagree, ask questions, propose different architecture, and name prerequisite
 work when that is the right answer. Smoke prompts prove the transport; they are
 not the main product.
 
+## Demo
+
+<video src="https://github.com/pauljunsukhan/chat-gpt-pro-codex-plugin/raw/main/docs/assets/plugin_v1_demo.mp4" controls width="100%"></video>
+
+[Download the demo video](docs/assets/plugin_v1_demo.mp4)
+
 ## Shape
 
 - `npm run chrome` opens `https://chatgpt.com/` in a normal Chrome window.
